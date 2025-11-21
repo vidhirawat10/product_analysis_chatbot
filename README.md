@@ -10,12 +10,6 @@
 
 ---
 
-## 📸 Demo & Screenshots
-
-*(Place a screenshot of your dashboard or chat interface here)*
-
----
-
 ## 🚀 Overview
 
 The **Product Analysis Chatbot** bridges the gap between raw data and actionable insights. Instead of manually sifting through spreadsheets, users can ask natural language questions about their product inventory, sales performance, and trends.
@@ -73,6 +67,8 @@ npm run dev
 
 Open http://localhost:5173 with your browser to see the result.
 
+---
+
 # 🤝 Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -81,5 +77,7 @@ Fork the Project
 2. Commit your Changes (git commit -m 'Add some AmazingFeature')
 3. Push to the Branch (git push origin feature/AmazingFeature)
 4. Open a Pull Request
+
+ ---
 
    <p align="center"> Made with ❤️ by <a href="https://github.com/vidhirawat10">Vidhi Rawat</a> </p>
