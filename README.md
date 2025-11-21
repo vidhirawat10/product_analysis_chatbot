@@ -49,10 +49,37 @@ Follow these steps to set up the project locally.
 * npm or yarn
 
 ### 1. Clone the Repository
-### 2. Install Dependencies
-```npm install
-```
 
 ```bash
 git clone [https://github.com/vidhirawat10/product_analysis_chatbot.git](https://github.com/vidhirawat10/product_analysis_chatbot.git)
 cd product_analysis_chatbot
+```
+
+### 2. Install Dependencies 
+```bash
+npm install
+```
+
+### 3. Configure Environment Variables
+```bash
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+```
+
+### 4. Run the Development Server
+```bash
+npm run dev
+```
+
+Open http://localhost:5173 with your browser to see the result.
+
+# 🤝 Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+1. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+2. Commit your Changes (git commit -m 'Add some AmazingFeature')
+3. Push to the Branch (git push origin feature/AmazingFeature)
+4. Open a Pull Request
+
+   <p align="center"> Made with ❤️ by <a href="https://github.com/vidhirawat10">Vidhi Rawat</a> </p>
