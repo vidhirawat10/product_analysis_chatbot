@@ -1,0 +1,17 @@
+{
+  "SKU123": {
+    "description": "A high-quality, 5-part widget for all your professional needs. Features precision engineering and durable construction.",
+    "manufacturer": "Widgets Inc.",
+    "warranty": "2 years"
+  },
+  "SKU456": {
+    "description": "A budget-friendly widget for home use. Perfect for everyday tasks with reliable performance.",
+    "manufacturer": "HomeGoods",
+    "warranty": "1 year"
+  },
+  "SKU789": {
+    "description": "Premium enterprise-grade widget with advanced features. Ideal for demanding business applications.",
+    "manufacturer": "Enterprise Solutions Ltd.",
+    "warranty": "3 years"
+  }
+}
